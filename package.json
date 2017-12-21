@@ -1,0 +1,19 @@
+{
+  "name": "simplon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celine2/simplon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celine2/simplon/issues"
+  },
+  "homepage": "https://github.com/Celine2/simplon#readme"
+}
